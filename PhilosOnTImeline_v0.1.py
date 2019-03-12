@@ -2,16 +2,16 @@ import random
 import numpy
 import copy
 
-filo0 = ["Socrates", -470, "-Some say that i am ugly but they dont know they dont know anything"]
-filo1 = ["Plato", -428,"-One might wounder how this list looks in the world of forms"]
-filo2 = ["Aristotle", -384, "-Use your logic... i mean MY logic to solve this"]
+filo0 = ["Socrates", -470, "-Some say that i am ugly but they don't know anything"]
+filo1 = ["Plato", -428,"-One might wonder how this list looks in the world of forms"]
+filo2 = ["Aristotle", -384, "-Use your logic... I mean MY logic to solve this"]
 filo3 = ["Immanuel Kant", 1724, "-Is this a analytic or syntic timeline?"]
-filo4 = ["Sam Harris", 1967, "-Well you cant play it any other way"]
+filo4 = ["Sam Harris", 1967, "-Well you can't play it any other way"]
 filo5 = ["Peter Singer", 1946, "-Please do something useful after this game"]
 filo6 = ["Thales", -624, "I was first"]
-filo7 = ["Democritus",-450, "You cant divde me(complety)"]
-filo8 = ["René Descartes",1596,"Im on the timeline therefor im a Philosopher"]
-filo9 = ["Baruch Spinoza", 1632," Doest matter how you place, everything on this list is god anyway"]
+filo7 = ["Democritus",-450, "You can't divde me(complety)"]
+filo8 = ["René Descartes",1596,"I'm on the timeline therefore I'm a Philosopher"]
+filo9 = ["Baruch Spinoza", 1632," Doesn't matter how you place, everything on this list is good anyway"]
 filo10 = ["John Stuart Mill ", 1806,"Hope you placed me where the happiness was maximized"]
 
 
